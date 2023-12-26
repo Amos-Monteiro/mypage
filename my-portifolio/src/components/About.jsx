@@ -4,9 +4,11 @@ const About = () => {
   return (
     <section className='about-conteiner'>
       <h2>Sobre</h2>
-      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magnam aliquam reprehenderit non ipsum, provident perferendis exercitationem! Voluptatem recusandae voluptas assumenda quas officia officiis! Error tempora, nemo deserunt at possimus cum!</p>
+      <p> Estudante de <b>ADS</b> (analise e desenvolvimento de sistemas) na <b>Uninassau</b>, atualmente atuando como Desenvilvedor-freelancer. </p>
 
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum tenetur officia, doloremque explicabo porro nobis quos. Aperiam eaque fugiat, quisquam, ratione quod suscipit deserunt eos autem, veritatis rerum illo culpa.</p>
+      <p> 
+          Planejamento, comunicação, trabalho em equipe e organização  foram algumas das caracteristicas adiquiridas através do ambiente academico. Focado em me desenvolver e aprender cada dia mais.
+      </p>
 
     </section>
   )

@@ -5,9 +5,9 @@ const Projects = () => {
     <section className="projects-container">
 
       <h2>Projetos</h2>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, eaque mollitia soluta incidunt temporibus natus eveniet inventore doloremque excepturi at ea quisquam animi voluptatem totam pariatur minima reiciendis odio ratione?</p>
+      <p>Aqui tem ideias, atividades da faculdade e tutoriais de projetos.</p>
 
-      <a href="#" className="btn">
+      <a href="https://github.com/Amos-Monteiro?tab=repositories" className="btn" target="blank">
         Ver Projetos
       </a>
 
