@@ -1,7 +1,7 @@
 import {
   DiHtml5,
   DiCss3,
-  DiJavascript,
+  DiJavascript1,
   DiGit,
   DiReact
 } from 'react-icons/di';
@@ -11,7 +11,7 @@ import '../styles/components/technologies.sass';
 const technologies = [
   { id: "html", name: "HTML5", icon: <DiHtml5 /> },
   { id: "css", name: "CSS3", icon: <DiCss3 /> },
-  { id: "js", name: "JavaScript", icon: <DiJavascript /> },
+  { id: "js", name: "JavaScript", icon: <DiJavascript1 /> },
   
   { id: "git", name: "Git", icon: <DiGit /> },
   { id: "react", name: "React", icon: <DiReact /> },
